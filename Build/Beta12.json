@@ -1,0 +1,12 @@
+{
+"companyName": "Wolfwerks",
+"productName": "JAR",
+"dataUrl": "Beta12.data.unityweb",
+"wasmCodeUrl": "Beta12.wasm.code.unityweb",
+"wasmFrameworkUrl": "Beta12.wasm.framework.unityweb",
+"TOTAL_MEMORY": 83886080,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
